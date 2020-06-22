@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+p{
+	text-align: center;
+	background-color: green;	
+	font-size: 30px;
+	font-family: verdana;
+}
+h5{
+	text-align: center;
+	background-color: blue;
+	font-size: 20px;	
+}
+h6{
+	text-align: center;
+	background-color: yellow;
+	text-decoration: Underline;
+}
+body{
+	background-image: url("bgimage.jpg");
+}
